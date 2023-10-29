@@ -15,7 +15,7 @@ senders_data = {}
 class ENV:
     API_ID = config("API_ID", default=6, cast=int)
     API_HASH = config("API_HASH", default="eb06d4abfb49dc3eeb1aeb98ae0f581e", cast=str)
-    BOT_TOKEN = config("BOT_TOKEN", default="", cast=str)
+    BOT_TOKEN = "1064540465:AAFTgEC_xtVSiu3RdoESorVfy_cAwZ5K0Qw"
 
 
 try:
